@@ -1,3 +1,8 @@
+# Task 1 - Clean Code
+
+This repository contains my solutions for the first task set of the Java Spring Development course, focused on Clean Code. Each task aims to apply clean coding principles, write unit tests, and manage the projects using Maven. The tasks gradually increase in complexity, allowing me to practice essential coding techniques and improve my Java programming skills.
+
+<br>
 <details>
 <summary>
 Task 1.1 Anagrams
